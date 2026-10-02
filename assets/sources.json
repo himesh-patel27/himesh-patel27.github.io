@@ -1,0 +1,82 @@
+[
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Active-Directory-Home-Lab/HEAD/Windows%2011%20-%20Domain%20Group.png",
+    "file": "ad-domain.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Active-Directory-Home-Lab/HEAD/IT%20User%20Logged%20In.png",
+    "file": "ad-login.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Active-Directory-Home-Lab/HEAD/ADUC%20OUs%20HR-IT-Finance.png",
+    "file": "ad-structure.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Active-Directory-Home-Lab/HEAD/Successful%20Logon%20Post%20Unlock.png",
+    "file": "ad-unlock.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Multi-Site-Company-Network/HEAD/topology.png",
+    "file": "network-topology.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Multi-Site-Company-Network/HEAD/ping_tracert_results.png",
+    "file": "network-connectivity.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Multi-Site-Company-Network/HEAD/LAN1_PC1_DHCP.png",
+    "file": "network-dhcp.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Microsoft-Azure-Cloud-Labs/HEAD/04-Azure-Custom-VM-Image-with-PowerShell/screenshots/06-custom-image-deployment-complete.jpg",
+    "file": "azure-deployment.jpg"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Microsoft-Azure-Cloud-Labs/HEAD/04-Azure-Custom-VM-Image-with-PowerShell/screenshots/05-azure-image-resource.jpg",
+    "file": "azure-image.jpg"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Microsoft-Azure-Cloud-Labs/HEAD/03-Azure-Recovery-Services-and-Backup/screenshots/05-backup-item-status.jpg",
+    "file": "azure-backup.jpg"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Commonwealth-Bank-Job-Simulation/HEAD/fraud_detection_dashboard-2026-09-17.pdf",
+    "file": "splunk-dashboard.pdf"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Digital-Forensics-Case-Study/HEAD/image3.png",
+    "file": "forensics-3.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Digital-Forensics-Case-Study/HEAD/image6.png",
+    "file": "forensics-6.png"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/himesh-patel27/Digital-Forensics-Case-Study/HEAD/image8.png",
+    "file": "forensics-8.png"
+  },
+  {
+    "file": "splunk-dashboard.jpg",
+    "source": "Rendered ten-panel overview from splunk-dashboard.pdf; original panels rearranged into two rows without changing values."
+  },
+  {
+    "file": "splunk-page-1.jpg",
+    "source": "Rendered page 1 of splunk-dashboard.pdf"
+  },
+  {
+    "file": "splunk-page-2.jpg",
+    "source": "Rendered page 2 of splunk-dashboard.pdf"
+  },
+  {
+    "file": "splunk-page-3.jpg",
+    "source": "Rendered page 3 of splunk-dashboard.pdf"
+  },
+  {
+    "file": "splunk-page-4.jpg",
+    "source": "Rendered page 4 of splunk-dashboard.pdf"
+  },
+  {
+    "file": "splunk-page-5.jpg",
+    "source": "Rendered page 5 of splunk-dashboard.pdf"
+  }
+]
